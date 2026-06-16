@@ -1,57 +1,111 @@
 <div align="center">
-  
-  <h1>Hi, I'm Ananya Mittal 👾</h1>
-  <h3>Data Analyst | Insight Architect | Tech Enthusiast</h3>
-  <p><i>Transforming raw data into strategic insights by day, gaming by night.</i></p>
 
-  ---
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/ananyamittal2000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ananyamittal88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b10,40:6e57ff,100:3d8bff&height=140&section=header&text=ananya%20mittal%20%F0%9F%91%BE&fontSize=34&fontColor=e6edf3&fontAlignY=42&desc=%2F%2F%20data%20%C2%B7%20law%20%C2%B7%20AI%20%C2%B7%20games%20%C2%B7%20paint%20%C2%B7%20poetry&descAlignY=62&descSize=11&descColor=6e57ff" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=9D8BFF&center=true&vCenter=true&width=580&lines=poet+before+coder.+the+audience+was+kinder+then.;turning+messy+datasets+into+things+that+make+people+say+%22oh.%22;building+AI+that+does+what+people+said+couldn%27t+be+automated.;law+%C3%97+data+%C3%97+AI+%E2%80%94+chaotic+good.)](https://git.io/typing-svg)
+
+<br/>
+
+![open to work](https://img.shields.io/badge/●_open_to_work-2ea843?style=flat-square&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/⬡_linkedin-6e57ff?style=flat-square)](https://linkedin.com/in/ananyamittal2000)
+[![Email](https://img.shields.io/badge/✉_email-3d8bff?style=flat-square)](mailto:ananyamittal88@gmail.com)
+![GIM](https://img.shields.io/badge/GIM_%7C_PGDM_Big_Data_Analytics-21262d?style=flat-square&logoColor=white)
+![CAT](https://img.shields.io/badge/CAT_94.14_percentile-21262d?style=flat-square)
+
 </div>
 
----
+<br/>
 
-### 👩🏻‍💻 About Me
+```
+// profile.load()
 
-*   **Current Focus:** Building dynamic dashboards and optimizing data pipelines to drive business intelligence.
-*   **What I do:** I specialize in taking complex datasets, querying the critical metrics, and translating them into clear, actionable stories for stakeholders. 
-*   **Currently Learning:** Advanced Python.
-*   **Fun Fact:** I optimize my SQL queries with the same intensity I use to min-max my RPG characters.
+currently  →  turning messy datasets into things that make stakeholders say "oh."
+building   →  AI that does things people said couldn't be automated
+also me    →  poet · photographer · painter · strong opinions about em dashes
+fun fact   →  wrote poetry publicly before writing code publicly.
+              the audience was kinder then.
+```
 
----
+<br/>
 
-### ⚡ Tech Arsenal
+```
+// stack
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFB86C" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL" />
-  
-  <!-- Data Visualization & BI -->
-  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
-</p>
+languages  →  Python · SQL · TypeScript
+analytics  →  Power BI · Tableau · sklearn · pandas
+building   →  Claude AI · React · Express · multi-agent systems
+```
 
----
+<br/>
 
-### 📊 Transmission Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyaontheshor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaontheshor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+![](https://img.shields.io/badge/133K-listings_analysed-080b10?style=for-the-badge&labelColor=080b10&color=9d8bff)
+![](https://img.shields.io/badge/9.5K-records_modelled-080b10?style=for-the-badge&labelColor=080b10&color=3d8bff)
+![](https://img.shields.io/badge/3Cr%2B-judgments_indexed-080b10?style=for-the-badge&labelColor=080b10&color=2ea843)
 
----
+<br/><br/>
 
-### 🚀 Featured Data Transmissions
+<img src="https://github-readme-stats.vercel.app/api?username=ananyaontheshor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9d8bff&icon_color=3d8bff&text_color=8b949e" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaontheshor&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d8bff&text_color=8b949e" width="41%"/>
 
-> **Note to recruiters & visitors:** Below are highlights of my analytical work. Click on any repository to view the code, raw data, and screenshots of the final visualization dashboards.
+<br/>
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[NyayaAI](https://github.com/ananyaontheshor/nyayaai)** | Developed an AI-powered legal research platform searching across 3 crore+ Indian court judgments using Claude AI and the Indian Kanoon API[cite: 3]. Features multi-agent compliance checks and contract review[cite: 3]. | `React` `Express` `Claude AI` |
-| **[MSME Churn Prediction](https://github.com/ananyaontheshor/msme_churn_prediction)** | Built a logistic regression classifier to predict B2B logistics customer churn using 9,500+ records, highlighting SLA non-compliance as a key retention risk[cite: 1]. | `Python` `sklearn` `Power BI` |
-| **[Kindle Discoverability](https://github.com/ananyaontheshor/kindle-discoverability-analysis)** | Analyzed 133,102 Kindle listings to demonstrate that Kindle Unlimited titles achieve a 5x higher bestseller rate and receive 25x more reviews than paid titles[cite: 2]. | `Python` `Pandas` `Tableau` |
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ananyaontheshor&hide_border=true&background=0d1117&ring=6e57ff&fire=3d8bff&currStreakLabel=8b949e&sideLabels=8b949e&dates=30363d&currStreakNum=e6edf3&sideNums=e6edf3" width="55%"/>
+
+</div>
+
+<br/>
+
+**[⚖️ NyayaAI](https://github.com/ananyaontheshor/nyayaai)**
+
+```
+multi-agent platform · 3 crore+ Indian court judgments · real-time search
+
+built because legal research is expensive and inaccessible —
+and that felt like a data problem worth solving with AI.
+
+React · Claude AI · IndianKanoon API · Express
+```
+
+**[📦 MSME Churn Prediction](https://github.com/ananyaontheshor/msme_churn_prediction)**
+
+```
+logistic regression · 9,500+ records · Tata nexarc internship data
+
+SLA non-compliance was the silent churn driver hiding behind pricing complaints.
+the model found what the dashboards weren't showing.
+
+Python · sklearn · Power BI · cohort modelling
+```
+
+**[📚 Kindle Discoverability](https://github.com/ananyaontheshor/kindle-discoverability-analysis)**
+
+```
+133,102 listings · EDA · marketplace analysis
+
+KU titles get 5× more bestseller placement and 25× more reviews.
+price doesn't drive discoverability. the algorithm does.
+
+Python · Pandas · Tableau
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ananyaontheshor&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8" width="65%"/>
+
+<br/><br/>
+
+```
+▌ ananyaontheshor · open to collabs and full-time roles · ping me
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d8bff,60:6e57ff,100:080b10&height=100&section=footer" width="100%"/>
+
+*// made with data · law · and a lot of caffeine //*
+
+</div>
