@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=9D8BFF&center=true&vCenter=true&width=580&lines=poet+before+coder.+the+audience+was+kinder+then.;turning+messy+datasets+into+things+that+make+people+say+%22oh.%22;building+AI+that+does+what+people+said+couldn%27t+be+automated.;law+%C3%97+data+%C3%97+AI+%E2%80%94+chaotic+good.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=9D8BFF&center=true&vCenter=true&width=580&lines=poet+before+coder.+the+audience+was+kinder+then.;data+analyst+and+PM+candidate.+also+builds+things+with+AI.;law+%C3%97+data+%C3%97+Claude+API+%E2%80%94+it+made+sense+at+the+time.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,8 +21,8 @@
 ```
 // profile.load()
 
-currently  →  turning messy datasets into things that make stakeholders say "oh."
-building   →  AI that does things people said couldn't be automated
+currently  →  data analyst and PM candidate. also building things with Claude AI.
+building   →  NyayaAI — legal research across 3 crore+ Indian court judgments
 also me    →  poet · photographer · painter · strong opinions about em dashes
 fun fact   →  wrote poetry publicly before writing code publicly.
               the audience was kinder then.
@@ -55,10 +55,10 @@ building   →  Claude AI · React · Express · multi-agent systems
 ```
 multi-agent platform · 3 crore+ Indian court judgments · real-time search
 
-built because legal research is expensive and inaccessible —
-and that felt like a data problem worth solving with AI.
+searches Indian case law via IndianKanoon API. compliance checks,
+contract review, multi-agent architecture. built with Claude AI.
 
-React · Claude AI · IndianKanoon API · Express
+React · Express · Claude AI · IndianKanoon API
 ```
 
 **[📦 MSME Churn Prediction](https://github.com/ananyaontheshor/msme_churn_prediction)**
