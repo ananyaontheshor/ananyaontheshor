@@ -1,0 +1,121 @@
+<svg width="100%" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .name { font-family: 'JetBrains Mono', monospace; font-size: 32px; font-weight: 700; fill: #e6edf3; }
+      .sub  { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 400; fill: #9d8bff; letter-spacing: 1.5px; }
+      .dim  { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #6e7681; letter-spacing: 1px; }
+      .cur  { fill: #6e57ff; animation: blink 1.1s step-start infinite; }
+      .glitch { animation: glitch 8s ease-in-out infinite; }
+      .s1  { animation: tw 3.1s ease-in-out infinite 0.0s; }
+      .s2  { animation: tw 2.4s ease-in-out infinite 0.7s; }
+      .s3  { animation: tw 4.0s ease-in-out infinite 1.2s; }
+      .s4  { animation: tw 2.8s ease-in-out infinite 0.3s; }
+      .s5  { animation: tw 3.5s ease-in-out infinite 1.8s; }
+      .s6  { animation: tw 2.1s ease-in-out infinite 0.9s; }
+      .s7  { animation: tw 3.8s ease-in-out infinite 2.1s; }
+      .s8  { animation: tw 2.6s ease-in-out infinite 0.5s; }
+      .s9  { animation: tw 4.2s ease-in-out infinite 1.5s; }
+      .s10 { animation: tw 3.3s ease-in-out infinite 2.5s; }
+      .s11 { animation: tw 2.9s ease-in-out infinite 0.2s; }
+      .s12 { animation: tw 3.6s ease-in-out infinite 1.1s; }
+      .s13 { animation: tw 2.2s ease-in-out infinite 1.9s; }
+      .s14 { animation: tw 4.4s ease-in-out infinite 0.6s; }
+      .s15 { animation: tw 3.0s ease-in-out infinite 2.8s; }
+      .s16 { animation: tw 2.7s ease-in-out infinite 1.4s; }
+      .s17 { animation: tw 3.9s ease-in-out infinite 0.1s; }
+      .s18 { animation: tw 2.3s ease-in-out infinite 2.3s; }
+      .s19 { animation: tw 4.1s ease-in-out infinite 0.8s; }
+      .s20 { animation: tw 3.2s ease-in-out infinite 1.7s; }
+      .s21 { animation: tw 2.5s ease-in-out infinite 0.4s; }
+      .s22 { animation: tw 3.7s ease-in-out infinite 1.6s; }
+      .s23 { animation: tw 4.3s ease-in-out infinite 2.2s; }
+      .s24 { animation: tw 2.0s ease-in-out infinite 1.0s; }
+      @keyframes tw     { 0%,100%{ opacity:0.06; } 50%{ opacity:1; } }
+      @keyframes blink  { 0%,100%{ opacity:1; } 50%{ opacity:0; } }
+      @keyframes glitch {
+        0%,89%,100% { transform:translate(0,0); opacity:1; }
+        90% { transform:translate(-2px,0); opacity:0.85; }
+        91% { transform:translate(2px,0);  opacity:0.95; }
+        92% { transform:translate(0,0);    opacity:1; }
+      }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#080b10"/>
+      <stop offset="40%"  stop-color="#0f0b2e"/>
+      <stop offset="65%"  stop-color="#0d1038"/>
+      <stop offset="100%" stop-color="#080b10"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#6e57ff" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#6e57ff" stop-opacity="0.7"/>
+      <stop offset="70%"  stop-color="#3d8bff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#3d8bff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="namegrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#c4b5fd"/>
+      <stop offset="50%"  stop-color="#e6edf3"/>
+      <stop offset="100%" stop-color="#93c5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="160" fill="url(#bg)"/>
+  <rect x="0" y="0"   width="860" height="1" fill="url(#edge)"/>
+  <rect x="0" y="158" width="860" height="2" fill="url(#edge)" opacity="0.5"/>
+  <rect class="s1"  x="32"  y="12"  width="2" height="2" fill="#ffffff"/>
+  <rect class="s2"  x="88"  y="44"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s3"  x="144" y="8"   width="2" height="2" fill="#ffffff"/>
+  <rect class="s4"  x="200" y="28"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s5"  x="56"  y="72"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s6"  x="112" y="100" width="2" height="2" fill="#ffffff"/>
+  <rect class="s7"  x="168" y="128" width="1" height="1" fill="#ffffff"/>
+  <rect class="s8"  x="224" y="56"  width="2" height="2" fill="#ffffff"/>
+  <rect class="s9"  x="752" y="16"  width="2" height="2" fill="#ffffff"/>
+  <rect class="s10" x="796" y="48"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s11" x="820" y="88"  width="2" height="2" fill="#ffffff"/>
+  <rect class="s12" x="840" y="120" width="1" height="1" fill="#ffffff"/>
+  <rect class="s13" x="760" y="136" width="2" height="2" fill="#ffffff"/>
+  <rect class="s14" x="40"  y="140" width="1" height="1" fill="#ffffff"/>
+  <rect class="s15" x="96"  y="148" width="2" height="2" fill="#ffffff"/>
+  <rect class="s16" x="808" y="12"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s17" x="784" y="72"  width="2" height="2" fill="#ffffff"/>
+  <rect class="s18" x="72"  y="20"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s19" x="128" y="60"  width="2" height="2" fill="#ffffff"/>
+  <rect class="s20" x="848" y="56"  width="1" height="1" fill="#ffffff"/>
+  <rect class="s21" x="24"  y="104" width="1" height="1" fill="#ffffff"/>
+  <rect class="s22" x="180" y="148" width="2" height="2" fill="#ffffff"/>
+  <rect class="s23" x="836" y="148" width="1" height="1" fill="#ffffff"/>
+  <rect class="s24" x="744" y="100" width="2" height="2" fill="#ffffff"/>
+  <rect class="s3"  x="16"  y="32"  width="4" height="4" fill="#6e57ff" opacity="0.7"/>
+  <rect class="s7"  x="240" y="16"  width="4" height="4" fill="#6e57ff" opacity="0.5"/>
+  <rect class="s11" x="64"  y="120" width="4" height="4" fill="#6e57ff" opacity="0.6"/>
+  <rect class="s15" x="832" y="32"  width="4" height="4" fill="#6e57ff" opacity="0.5"/>
+  <rect class="s19" x="776" y="120" width="4" height="4" fill="#6e57ff" opacity="0.7"/>
+  <rect class="s23" x="152" y="92"  width="4" height="4" fill="#6e57ff" opacity="0.4"/>
+  <rect class="s2"  x="192" y="140" width="3" height="3" fill="#3d8bff" opacity="0.6"/>
+  <rect class="s6"  x="48"  y="88"  width="3" height="3" fill="#3d8bff" opacity="0.5"/>
+  <rect class="s10" x="816" y="144" width="3" height="3" fill="#3d8bff" opacity="0.6"/>
+  <rect class="s14" x="760" y="56"  width="3" height="3" fill="#3d8bff" opacity="0.5"/>
+  <rect class="s18" x="136" y="132" width="2" height="2" fill="#3d8bff" opacity="0.7"/>
+  <rect class="s22" x="700" y="24"  width="3" height="3" fill="#3d8bff" opacity="0.5"/>
+  <rect class="s4"  x="176" y="76"  width="1" height="1" fill="#9d8bff" opacity="0.5"/>
+  <rect class="s8"  x="104" y="36"  width="1" height="1" fill="#9d8bff" opacity="0.5"/>
+  <rect class="s12" x="792" y="100" width="1" height="1" fill="#9d8bff" opacity="0.4"/>
+  <rect class="s16" x="824" y="64"  width="1" height="1" fill="#9d8bff" opacity="0.6"/>
+  <rect class="s20" x="24"  y="56"  width="1" height="1" fill="#9d8bff" opacity="0.3"/>
+  <rect class="s1"  x="152" y="148" width="1" height="1" fill="#9d8bff" opacity="0.5"/>
+  <rect class="s5"  x="844" y="140" width="1" height="1" fill="#9d8bff" opacity="0.4"/>
+  <rect class="s9"  x="80"  y="104" width="1" height="1" fill="#9d8bff" opacity="0.3"/>
+  <rect class="s13" x="744" y="24"  width="1" height="1" fill="#9d8bff" opacity="0.5"/>
+  <rect class="s17" x="216" y="112" width="1" height="1" fill="#9d8bff" opacity="0.4"/>
+  <rect class="s21" x="680" y="140" width="1" height="1" fill="#9d8bff" opacity="0.4"/>
+  <rect class="s24" x="720" y="80"  width="1" height="1" fill="#9d8bff" opacity="0.5"/>
+  <text x="14" y="22"  font-family="'JetBrains Mono',monospace" font-size="11" fill="#6e57ff" opacity="0.35">[</text>
+  <text x="843" y="22" font-family="'JetBrains Mono',monospace" font-size="11" fill="#6e57ff" opacity="0.35">]</text>
+  <text x="14" y="152" font-family="'JetBrains Mono',monospace" font-size="11" fill="#3d8bff" opacity="0.25">[</text>
+  <text x="843" y="152" font-family="'JetBrains Mono',monospace" font-size="11" fill="#3d8bff" opacity="0.25">]</text>
+  <g class="glitch">
+    <text x="430" y="78" text-anchor="middle" class="name" fill="url(#namegrad)">ananya mittal 👾</text>
+  </g>
+  <text x="430" y="104" text-anchor="middle" class="sub">analyst by training. builder by compulsion. occasionally writes poetry.</text>
+  <text x="418" y="130" text-anchor="middle" class="dim">usually with Python, occasionally with words.</text>
+  <text x="296" y="130" text-anchor="middle" class="cur" font-family="'JetBrains Mono',monospace" font-size="10">▌</text>
+</svg>
