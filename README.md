@@ -50,7 +50,7 @@ building   →  Claude AI · React · Express · multi-agent systems
 
 <br/>
 
-**[⚖️ NyayaAI](https://github.com/ananyaontheshor/nyayaai)**
+**[⚖️ NyayaAI](https://nyayaai.up.railway.app/)**
 
 ```
 multi-agent platform · 3 crore+ Indian court judgments · real-time search
