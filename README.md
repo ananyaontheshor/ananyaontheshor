@@ -11,6 +11,7 @@
 ![open to work](https://img.shields.io/badge/●_open_to_work-2ea843?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/⬡_linkedin-6e57ff?style=flat-square)](https://linkedin.com/in/ananyamittal2000)
 [![Email](https://img.shields.io/badge/✉_email-3d8bff?style=flat-square)](mailto:ananyamittal88@gmail.com)
+[![Blog](https://img.shields.io/badge/✍_blog-21262d?style=flat-square)](https://ananyaontheshor.github.io)
 ![GIM](https://img.shields.io/badge/GIM_%7C_PGDM_Big_Data_Analytics-21262d?style=flat-square)
 ![CAT](https://img.shields.io/badge/CAT_94.14_percentile-21262d?style=flat-square)
 
@@ -50,7 +51,7 @@ building   →  Claude AI · React · Express · multi-agent systems
 
 <br/>
 
-**[⚖️ NyayaAI](https://nyayaai.up.railway.app/)**
+**[⚖️ NyayaAI](https://nyayaai.up.railway.app)**
 
 ```
 multi-agent platform · 3 crore+ Indian court judgments · real-time search
@@ -59,6 +60,17 @@ searches Indian case law via IndianKanoon API. compliance checks,
 contract review, multi-agent architecture. built with Claude AI.
 
 React · Express · Claude AI · IndianKanoon API
+```
+
+**[🎮 SideQuest](https://sidequest-game.up.railway.app)**
+
+```
+personal game tracker · multi-platform · RAWG API
+
+tracks what you're playing, what's abandoned, what's next.
+built because spreadsheets are a bad way to manage a backlog.
+
+FastAPI · Jinja2 · PostgreSQL · Railway
 ```
 
 **[📦 MSME Churn Prediction](https://github.com/ananyaontheshor/msme_churn_prediction)**
